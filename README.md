@@ -1,0 +1,2 @@
+# SuperEasyBookmark
+Chrome拡張で超簡単に生きたい場所を記録する
