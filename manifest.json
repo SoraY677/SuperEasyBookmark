@@ -10,6 +10,7 @@
         "https://*/*"
       ],
       "js": [
+        "setting.js",
         "main.js"
       ]
     }
